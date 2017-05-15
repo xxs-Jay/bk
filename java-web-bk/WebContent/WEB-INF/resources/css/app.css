@@ -1,0 +1,13 @@
+		body{
+            padding-top: 70px;
+        }
+        .navbar{
+            background-color: rgb(56,199,42);
+          
+        }
+        .content{
+            margin: 0 auto;
+        }
+        table{
+        		text-align: center;
+        }
