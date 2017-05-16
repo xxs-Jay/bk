@@ -12,6 +12,7 @@ public class ManageController {
 	public String name() {
 		
 		System.out.println("dev");
+		System.out.println("dev");
 		return "login";	
 	}
 	
