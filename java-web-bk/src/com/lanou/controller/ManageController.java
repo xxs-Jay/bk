@@ -10,6 +10,7 @@ public class ManageController {
 	
 	@RequestMapping("manger")
 	public String name() {
+		System.out.println("dev");
 		return "login";
 	}
 	
